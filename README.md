@@ -3,6 +3,10 @@
 This Power BI project delivers a sleek and interactive dashboard for visualizing sales performance data across regions, products, and time periods. It features dynamic slicers, auto-refresh with Power Automate, a modern interface designed in Figma, and real-time refresh timestamps.
 
 ---
+- Welcome Template:
+![Ảnh minh họa](Pictures/welcome.png.png)
+
+- Dashboard Template:
 ![Ảnh minh họa](Pictures/dashboard.png)
 
 ## 🔍 Overview
