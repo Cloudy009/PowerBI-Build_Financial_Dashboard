@@ -4,7 +4,7 @@ This Power BI project delivers a sleek and interactive dashboard for visualizing
 
 ---
 - Welcome Template:
-![Ảnh minh họa](Pictures/welcome.png.png)
+![Ảnh minh họa](Pictures/welcome.png)
 
 - Dashboard Template:
 ![Ảnh minh họa](Pictures/dashboard.png)
